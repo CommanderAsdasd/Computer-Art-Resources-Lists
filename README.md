@@ -11,3 +11,7 @@ KVR Developer Challenge VST's - http://www.kvraudio.com/kvr-developer-challenge/
 
 ## Free Samples
 Many free samples - https://www.freesound.org/home/login/
+
+## Music generators
+
+Sonic Pi pulseaudio problem solving https://github.com/samaaron/sonic-pi/issues/1109
