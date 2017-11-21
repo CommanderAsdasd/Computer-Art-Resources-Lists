@@ -2,6 +2,12 @@
 There will be a lists of open-source VST's, code projects and all kind of music theory resources
 
 ## Free VST
+
+
+[Xhip](http://xhip.net/synth/) - VST with open source code
+
+[Synister](https://github.com/the-synister/the-source) - another open-source VST
+
 ### Randomizers/Delays
 Randomizer "Fire" http://mdsp.smartelectronix.com/product/fire/
 Glitch VST Hysteresis - http://glitchmachines.com/downloads/hysteresis/
