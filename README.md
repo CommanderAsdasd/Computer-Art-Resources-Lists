@@ -21,3 +21,7 @@ Many free samples - https://www.freesound.org/home/login/
 ## Music generators
 
 Sonic Pi pulseaudio problem solving https://github.com/samaaron/sonic-pi/issues/1109
+
+## Music hardware
+
+ Akai midimix
