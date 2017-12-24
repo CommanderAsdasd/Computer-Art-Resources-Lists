@@ -25,3 +25,6 @@ Sonic Pi pulseaudio problem solving https://github.com/samaaron/sonic-pi/issues/
 ## Music hardware
 
  Akai midimix
+## Cool visual guy
+
+http://jeremywentworth.com/
